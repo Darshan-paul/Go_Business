@@ -1,0 +1,45 @@
+.dashboard-page {
+  padding: 20px;
+}
+
+.dashboard-title {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.dashboard-subtitle {
+  margin-bottom: 20px;
+}
+
+.dashboard-section {
+  margin-top: 30px;
+}
+
+.metrics-grid {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.metric-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.referral-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.referral-table th,
+.referral-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.pagination-row {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}

@@ -1,0 +1,26 @@
+.referral-details-page {
+  padding: 20px;
+}
+
+.referral-details-title {
+  margin-bottom: 20px;
+}
+
+.referral-details-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 600px;
+}
+
+.referral-detail-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.back-to-dashboard-btn {
+  margin-top: 20px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
